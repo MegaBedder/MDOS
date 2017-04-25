@@ -19,4 +19,4 @@ Le programme final sera donc l'interface en ligne PHP et le generateur de client
 
 Pour plus d'infos :
 Un super cours de Polytech Grenoble sur les botnets, c'est vraiment une tuerie (plus axe sur les architectures centralisees) :
-http://mescal.imag.f...ssi-Bremond.pdf
+http://mescal.imag.fr/membres/florence.perronnin/Enseignement/ear/Botnets_Khemissi-Bremond.pdf
